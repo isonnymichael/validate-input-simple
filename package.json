@@ -1,0 +1,29 @@
+{
+  "name": "validate-input-simple",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript module for simple email and phone number validation using regular expressions.",
+  "main": "validate-input-simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isonnymichael/validate-input-simple.git"
+  },
+  "keywords": [
+    "validation",
+    "input",
+    "email",
+    "phone",
+    "simple",
+    "JavaScript",
+    "regexp",
+    "regex"
+  ],
+  "author": "Sonny Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isonnymichael/validate-input-simple/issues"
+  },
+  "homepage": "https://github.com/isonnymichael/validate-input-simple#readme"
+}
