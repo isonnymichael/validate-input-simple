@@ -1,6 +1,6 @@
 {
   "name": "validate-input-simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight JavaScript module for simple email and phone number validation using regular expressions.",
   "main": "validate-input-simple.js",
   "scripts": {
